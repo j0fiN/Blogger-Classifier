@@ -1,0 +1,6 @@
+pandas
+tensorflow
+flask
+nltk
+regex
+
